@@ -21,3 +21,6 @@ caption, th, td {
 	font-weight: normal;
 	vertical-align: middle; 
 }
+q, blockquote {
+	quotes: none;
+}
