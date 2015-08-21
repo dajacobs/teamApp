@@ -27,3 +27,6 @@ q, blockquote {
 a img {
 	border: none;
 }
+article, aside, details, figcaption, figure, header, hgroup, main, menu, nav, section, summary {
+	display: block;
+}
