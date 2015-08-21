@@ -24,3 +24,6 @@ caption, th, td {
 q, blockquote {
 	quotes: none;
 }
+a img {
+	border: none;
+}
