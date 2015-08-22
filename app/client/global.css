@@ -30,3 +30,6 @@ a img {
 article, aside, details, figcaption, figure, header, hgroup, main, menu, nav, section, summary {
 	display: block;
 }
+* {
+	box-sizing: border-box;
+}
