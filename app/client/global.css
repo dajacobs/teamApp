@@ -39,3 +39,10 @@ html {
 	font-size: 16px;
 	font-family: 'Latio', sans-serif;
 }
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding-top: 53px;
+	padding-bottom: 64px;
+}
