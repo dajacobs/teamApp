@@ -63,3 +63,16 @@ body {
 	height: 64px;
 	width: 100%;
 }
+.team-menu {
+	position: relative;
+	width: 220px;
+	height: 53px;
+	line-height: 53px;
+	font-weight: 900;
+	padding: 0 1rem;
+	color: #ffffff;
+	background: #3e313c;
+	border-bottom: 2px solid #372c36;
+	float: left;
+	cursor: pointer;
+}
