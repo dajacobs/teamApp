@@ -46,3 +46,10 @@ body {
 	padding-top: 53px;
 	padding-bottom: 64px;
 }
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 53px;
+	width: 100%;
+}
