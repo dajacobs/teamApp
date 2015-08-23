@@ -76,3 +76,12 @@ body {
 	float: left;
 	cursor: pointer;
 }
+.channel-menu_name {
+	display: inline-block;
+	padding: 0 .5rem 0 1.5rem;
+	color: #555459;
+	font-size: 1.4rem;
+	font-weight: 900;
+	line-height: 53px;
+	cursor: pointer;
+}
