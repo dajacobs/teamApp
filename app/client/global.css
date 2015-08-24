@@ -153,3 +153,6 @@ body {
 	margin-right: 3px;
 	margin-top: 3px;
 }
+.channel.active {
+	background: #4c9689;
+}
