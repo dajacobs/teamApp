@@ -109,3 +109,14 @@ body {
 .listings_channels {
 	margin: 1rem 0 2rem;
 }
+.listings_header {
+	text-align: left;
+	font-size: .8rem;
+	line-height: 1.25rem;
+	margin: 0 1rem .1rem;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #ab9ba9;
+	width: 165px;
+	position: relative;
+}
