@@ -120,3 +120,8 @@ body {
 	width: 165px;
 	position: relative;
 }
+.channel_list {
+	list-style-type: none;
+	text-align: left;
+	color: #ab9ba9;
+}
