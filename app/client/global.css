@@ -99,3 +99,10 @@ body {
 	overflow-y: auto;
 	overflow-x: hidden;
 }
+.message-history {
+	margin-left: 220px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	height: 100%;
+	padding: 0 18px 1rem 1.5rem;
+}
