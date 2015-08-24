@@ -85,3 +85,8 @@ body {
 	line-height: 53px;
 	cursor: pointer;
 }
+.channel-menu_prefix {
+	color: #9e9ea6;
+	padding-right: .1rem;
+	font-weight: 500;
+}
