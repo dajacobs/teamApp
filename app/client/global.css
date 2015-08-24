@@ -156,3 +156,6 @@ body {
 .channel.active {
 	background: #4c9689;
 }
+.channel_prefix {
+	color: #b2d5c9;
+}
