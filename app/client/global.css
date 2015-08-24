@@ -90,3 +90,12 @@ body {
 	padding-right: .1rem;
 	font-weight: 500;
 }
+.listings {
+	height: 100%;
+	width: 220px;
+	float: left;
+	color: #ab9ba9;
+	background-color: #4d394b;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
