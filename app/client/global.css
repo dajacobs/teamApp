@@ -125,3 +125,16 @@ body {
 	text-align: left;
 	color: #ab9ba9;
 }
+.channel {
+	height: 24px;
+	line-height: 24px;
+	-moz-border-radius-topright: 0.25rem;
+	-webkit-border-top-right-radius: 0.25rem;
+	border-top-right-radius: 0.25rem;
+	-moz-border-radius-bottom-right-radius: 0.25rem;
+	-webkit-border-bottom-right-radius: 0.25rem;
+	border-bottom-right-radius: 0.25rem;
+	margin-right: 17px;
+	color: #ffffff;
+	padding-left: 1rem; 
+}
