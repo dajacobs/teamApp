@@ -170,3 +170,15 @@ body {
 	padding: .25rem 2rem .1rem 3rem;
 	min-height: 36px;
 }
+.message_profile-pic {
+	position: absolute;
+	left: 0;
+	display: block;
+	-moz-border-radius: 0.2rem;
+	-webkit-border-radius: 0.2rem;
+	border-radius: 0.2rem;
+	width: 36px;
+	height: 36px;
+	background-image: url("http://i.imgur.com/LikUNLc.png");
+	background-size: cover;
+}
