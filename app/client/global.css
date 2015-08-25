@@ -182,3 +182,11 @@ body {
 	background-image: url("http://i.imgur.com/LikUNLc.png");
 	background-size: cover;
 }
+.message_username {
+	font-weight: 900;
+	padding-right: .25rem;
+	color: #3d3c40 !important;
+	margin-left: 0;
+	font-style: normal;
+	text-decoration: none;
+}
