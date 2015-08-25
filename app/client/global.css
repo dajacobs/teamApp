@@ -159,3 +159,8 @@ body {
 .channel_prefix {
 	color: #b2d5c9;
 }
+.disclaimer {
+	font-size: 0.8rem;
+	padding-left: 1rem;
+	margin-right: 17px;
+}
