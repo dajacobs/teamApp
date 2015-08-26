@@ -209,3 +209,16 @@ body {
 	display: block;
 	min-height: 1rem;
 }
+.user-menu {
+	float: left;
+	width: 220px;
+	height: 100%;
+	cursor: pointer;
+	background: #3e313c;
+	border-top: 2px solid #372c36;
+	padding: 7px 0 9px 8px;
+	height: 4rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
