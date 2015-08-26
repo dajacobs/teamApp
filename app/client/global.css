@@ -241,3 +241,7 @@ body {
 	margin-top: .2rem;
 	max-width: 120px;
 }
+.connection_icon {
+	width: 12px;
+	height: 12px;
+}
