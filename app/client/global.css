@@ -203,3 +203,9 @@ body {
 	margin-right: 0;
 	margin-left: 0;
 }
+.message_content {
+	color: #8b898f;
+	font-style: italic;
+	display: block;
+	min-height: 1rem;
+}
