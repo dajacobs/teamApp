@@ -248,3 +248,7 @@ body {
 .connection_status {
 	color: #ab9ba9;
 }
+.input-box {
+	height: 100%;
+	margin-left: 220px;
+}
