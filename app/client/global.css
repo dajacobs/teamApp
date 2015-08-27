@@ -263,4 +263,7 @@ body {
 	-webkit-background-clip: 0.2rem;
 	border-radius: 0.2rem;
 	-moz-background-clip: padding-box;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	color: #3d3c40;
 }
