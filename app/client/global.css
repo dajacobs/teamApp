@@ -252,3 +252,10 @@ body {
 	height: 100%;
 	margin-left: 220px;
 }
+.input-box_test {
+	font-size: .95rem;
+	width: 90%;
+	margin-left: 2%;
+	margin-bottom: auto;
+	line-height: 1.2rem;
+}
