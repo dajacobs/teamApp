@@ -258,4 +258,9 @@ body {
 	margin-left: 2%;
 	margin-bottom: auto;
 	line-height: 1.2rem;
+	border: 2px solid #e0e0e0;
+	-moz-border-radius: 0.2rem;
+	-webkit-background-clip: 0.2rem;
+	border-radius: 0.2rem;
+	-moz-background-clip: padding-box;
 }
